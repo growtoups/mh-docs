@@ -4,10 +4,6 @@ date: 2022-12-07
 slug: getting-started
 
 ---
-## How to use our bot?
-
-_Are you new in here? Are you here for hosting? Here is what you have to do:_
-
 ## Create an account
 
 **1.** Create an account using the command **mh!user new** then go to the private channel the bot made and supply it with the necessary details.
