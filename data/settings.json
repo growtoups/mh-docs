@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Site Panel",
+      "topics": [
+        {
+          "title": "Site Panel",
+          "slug": "site-panel"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
