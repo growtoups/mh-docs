@@ -1,6 +1,6 @@
 ---
 title: Bot Errors
-date: 
+date: 2022-12-07
 slug: bot-errors
 
 ---
