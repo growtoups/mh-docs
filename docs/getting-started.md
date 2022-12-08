@@ -16,7 +16,7 @@ _Are you new in here? Are you here for hosting? Here is what you have to do:_
 
 **3.** (Optional) Change your password by clicking on the profile icon on top right and you will see the section update password... from there you know what to do. (Change your password)
 
-## Create A Server
+## Create a Server
 
 **4.** Look at what type of servers you can create by running the command \`mh!server create\`
 
@@ -24,7 +24,7 @@ _Are you new in here? Are you here for hosting? Here is what you have to do:_
 
 **6.** If the previous step didn't give any error, you will be able to see your server on the panel.
 
-## Delete A Server
+## Delete a Server
 
 **7.** To delete a server you have to run **mh!server delete <server id>** where you can find your server id when running the command **mh!server list** or take a look at the panel URL and routes when navigating.
 
