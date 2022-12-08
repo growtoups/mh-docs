@@ -5,3 +5,5 @@ slug: bot-errors
 
 ---
 ## Bot Errors
+
+Sometimes Micium-Hosting#5933 (Bot) Will give you errors.
