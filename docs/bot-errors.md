@@ -4,3 +4,4 @@ date:
 slug: bot-errors
 
 ---
+## Bot Errors
