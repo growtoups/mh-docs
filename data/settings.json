@@ -10,20 +10,20 @@
       ]
     },
     {
-      "section": "Bot Errors",
-      "topics": [
-        {
-          "title": "Bot Errors",
-          "slug": "bot-errors"
-        }
-      ]
-    },
-    {
       "section": "Site Panel",
       "topics": [
         {
           "title": "Site Panel",
           "slug": "site-panel"
+        }
+      ]
+    },
+    {
+      "section": "Bot Errors",
+      "topics": [
+        {
+          "title": "Bot Errors",
+          "slug": "bot-errors"
         }
       ]
     }
