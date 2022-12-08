@@ -28,7 +28,7 @@ _Are you new in here? Are you here for hosting? Here is what you have to do:_
 
 **7.** To delete a server you have to run **mh!server delete <server id>** where you can find your server id when running the command **mh!server list** or take a look at the panel URL and routes when navigating.
 
-## more optional info
+## More optional info
 
 **8.** you can also see your server list on discord by running **mh!server list**
 
