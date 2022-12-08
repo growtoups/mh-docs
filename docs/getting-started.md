@@ -8,7 +8,7 @@ slug: getting-started
 
 _Are you new in here? Are you here for hosting? Here is what you have to do:_
 
-\****Create an account__**
+**Create an account**
 
 **1.** Create an account using the command **mh!user new** then go to the private channel the bot made and supply it with the necessary details.
 
@@ -16,7 +16,7 @@ _Are you new in here? Are you here for hosting? Here is what you have to do:_
 
 **3.** (Optional) Change your password by clicking on the profile icon on top right and you will see the section update password... from there you know what to do. (Change your password)
 
-\****Create A Server__**
+**Create A Server**
 
 **4.** Look at what type of servers you can create by running the command \`mh!server create\`
 
