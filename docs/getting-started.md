@@ -4,7 +4,7 @@ date: 2022-12-07
 slug: getting-started
 
 ---
-## Create an account
+## Creating an account
 
 **1.** Create an account using the command **mh!user new** then go to the private channel the bot made and supply it with the necessary details.
 
@@ -12,7 +12,7 @@ slug: getting-started
 
 **3.** (Optional) Change your password by clicking on the profile icon on top right and you will see the section update password... from there you know what to do. (Change your password)
 
-## Create a Server
+## Creating a Server
 
 **1.** Look at what type of servers you can create by running the command \`mh!server create\`
 
@@ -20,7 +20,7 @@ slug: getting-started
 
 **3.** If the previous step didn't give any error, you will be able to see your server on the panel.
 
-## Delete a Server
+## Deleting a Server
 
 **1.** To delete a server you have to run **mh!server delete <server id>** where you can find your server id when running the command **mh!server list** or take a look at the panel URL and routes when navigating.
 
