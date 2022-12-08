@@ -11,7 +11,12 @@
     },
     {
       "section": "Errors",
-      "topics": ""
+      "topics": [
+        {
+          "title": "Bot Errors",
+          "slug": "bot-errors"
+        }
+      ]
     }
   ]
 }
