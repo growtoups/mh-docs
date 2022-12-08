@@ -16,3 +16,4 @@ fields:
   label: slug
 pages:
 - docs/bot-errors.md
+- docs/side-panel.md
