@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Account Data",
+      "topics": [
+        {
+          "title": "Account Data",
+          "slug": "account-data"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
