@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "Account Data",
-      "topics": [
-        {
-          "title": "Account Data",
-          "slug": "account-data"
-        }
-      ]
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
@@ -33,6 +24,15 @@
         {
           "title": "Bot errors",
           "slug": "bot-errors"
+        }
+      ]
+    },
+    {
+      "section": "Account Data",
+      "topics": [
+        {
+          "title": "Account Data",
+          "slug": "account-data"
         }
       ]
     }
