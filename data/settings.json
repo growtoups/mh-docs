@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "Server Section",
-      "topics": [
-        {
-          "title": "Server Section",
-          "slug": "server-section"
-        }
-      ]
-    },
-    {
       "section": "Introduction",
       "topics": [
         {
@@ -24,6 +15,15 @@
         {
           "title": "Site Panel",
           "slug": "site-panel"
+        }
+      ]
+    },
+    {
+      "section": "Server Section",
+      "topics": [
+        {
+          "title": "Server Section",
+          "slug": "server-section"
         }
       ]
     },
