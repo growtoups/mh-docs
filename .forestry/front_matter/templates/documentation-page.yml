@@ -15,6 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
-- docs/account-data.md
 - docs/bot-errors.md
 - docs/side-panel.md
