@@ -19,20 +19,20 @@
       ]
     },
     {
-      "section": "Errors",
-      "topics": [
-        {
-          "title": "Bot errors",
-          "slug": "bot-errors"
-        }
-      ]
-    },
-    {
       "section": "Account Data",
       "topics": [
         {
           "title": "Account Data",
           "slug": "account-data"
+        }
+      ]
+    },
+    {
+      "section": "Errors",
+      "topics": [
+        {
+          "title": "Bot errors",
+          "slug": "bot-errors"
         }
       ]
     }
